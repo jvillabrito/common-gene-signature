@@ -1,6 +1,7 @@
 # common-gene-signature
 
 Find common gene signatures for two different types of cancer: breast invasive carcinoma and prostate adenocarcinoma.
+---
 
 Two datasets were extracted from the Cancer Genome Atlas (TCGA) database, using the tcga.data R package (https://github.com/averissimo/tcga.data): the BRCA RNA-Seq Fragments Per Kilobase per Million (FPKM) dataset and the PRAD RNA-Seq Fragments Per Kilobase per Million (FPKM) dataset.
 
